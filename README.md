@@ -8,8 +8,8 @@
 
 ### Links
 [Node](https://nodejs.org "Node")
-[Node](https://npmjs.com "Npm")
-[Node](https://www.npmjs.com/package/express "Express")
+[Npm](https://npmjs.com "Npm")
+[Express](https://www.npmjs.com/package/express "Express")
 
 [![Express](https://rithmapp.s3-us-west-2.amazonaws.com/assets/express-logo.png "Express")](https://www.npmjs.com/package/express "Express")
 
