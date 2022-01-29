@@ -30,7 +30,7 @@
 Note: Follow this only if you didn't follow 'Setup' section.
 
 ```
-$ git clone https://github.com/woterr/Basic-web-server-localhost-
-$ cd Basic-web-server-localhost-
-$ node .
+git clone https://github.com/woterr/Basic-web-server-localhost-
+cd Basic-web-server-localhost-
+node .
 ```
